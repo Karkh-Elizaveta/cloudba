@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export PS1="\e[1;38m\u\e[m@hello$"
+export PS2="nextline =>"
